@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "esdoc-standard-plugin": "^1.0.0"
+  },
+   "scripts": {
+      "docs": "jsdoc -c jsdoc.json"
+    }
+  
+}
