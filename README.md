@@ -1,0 +1,1 @@
+To access documentation write 'start docs/index.html' in terminal (Windows) or 'open docs/index.html' (MacOS)
