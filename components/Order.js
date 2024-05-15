@@ -28,7 +28,7 @@ class Order {
     }
   
     /**
-     * Finalizes the order. Gives information about the order
+     * Finalizes the order. Gives information about the order. Clears the cart after
      * @throws {Error} If the cart is empty.
      */
     finalizeOrder() {
